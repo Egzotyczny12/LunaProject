@@ -1,4 +1,4 @@
-# 🌙 LunaProject v2.1.1
+# 🌙 LunaProject
 **The Ultimate Web-Gaming Hub**
 
 LunaProject is a high-performance, lightweight game launcher designed for a seamless gaming experience. It transforms your digital library into a sleek, organized, and fast-acting hub.
